@@ -22,3 +22,8 @@ Triad colors:
 - #149BDE: blue
 - #DED82A: light yellow
 - #918D06: dak yellow
+
+
+## pictures
+
+<a href="https://www.freepik.com/free-photo/empty-sea-beach-background_3502704.htm#query=tropical%20beach&position=1&from_view=search&track=sph">Image by lifeforstock</a> on Freepik
